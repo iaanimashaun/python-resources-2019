@@ -1,11 +1,11 @@
 
 # 3 resources for learning python that I used this week ending 6/12/20
 
-## stackoverflow (https://stackoverflow.com/questions/tagged/python)
+### stackoverflow (https://stackoverflow.com/questions/tagged/python)
 
-## Python 3.9 documentation (https://docs.python.org/3/)
+### Python 3.9 documentation (https://docs.python.org/3/)
 
-## w3resource's Python Exercises (https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
+### w3resource's Python Exercises (https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
 includes several external packages. 
 
 
